@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/luoyi58624/flutter_package_demo/compare/v1.0.0...v1.0.1) (2024-01-12)
+
+
+### Bug Fixes
+
+* test ([bfbfa8e](https://github.com/luoyi58624/flutter_package_demo/commit/bfbfa8ed6cfe236dfd71a2f8dd2b50fb15e9c794))
+
 ## 1.0.0 (2024-01-12)
 
 
